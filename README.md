@@ -1,2 +1,2 @@
 # odin-recipes
-Hello Odin!
+This project demonstrates basic HTML skills acquired durin the course.
